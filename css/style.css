@@ -27,25 +27,7 @@ a, a:hover{
   background: url(../img/h-bg.png) center top no-repeat;
   background-size: cover;
 }
-/* .shape-1{
-  position: absolute;
-  top: 25%;
-}
-.shape-1 img{
-  width: 100px;
-  height: 550px;
-}
-.shape-2{
-  position: absolute;
-  right: 35.1%;
-  top: 0;
-  width: 200px;
-  height: 100px;
-}
-.shape-2 img{
-  width: 670px;
-  height: 600px;
-} */
+
 .header-section .bg-light{
   background: transparent!important;
   overflow: hidden;
